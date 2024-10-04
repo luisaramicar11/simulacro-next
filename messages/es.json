@@ -1,0 +1,16 @@
+{
+    "LoginView": {
+        "title": "Loguearse",
+        "email": "Correo",
+        "password": "Contraseña",
+        "buttonLogin": "Loguearse"
+    },
+    "Navbar": {
+        "home": "Inicio",
+        "about": "Acerca",
+        "contact": "Contacto",
+        "logout": "Salir",
+        "login": "Loguearse",
+        "register": "Registrarse"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "LoginView": {
+        "title": "Login",
+        "email": "Email",
+        "password": "Password",
+        "buttonLogin": "Login"
+    },
+    "Navbar": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "logout": "Logout",
+        "login": "Login",
+        "register": "Register"
+    }
+}
